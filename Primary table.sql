@@ -51,4 +51,4 @@ JOIN
 		gdp)c
 ON
 	b.price_year = c.economy_year
-ORDER BY a.common_year, industry, food_category;
+ORDER BY a.common_year, a.industry, b.food_category;
