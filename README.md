@@ -63,7 +63,6 @@ czechia_industry_branch,
 použita tabulka czechia_price a czechia_price_category,
   - část c – informace o hodnotě HDP v ČR, zdrojem dat byla tabulka
 economies.
-  - Následně byly tyto tři části spojeny do jedné primární tabulky.
 
 - **t_petra_zokova_projekt_z_SQL_secondary_final** pro dodatečná data o
 dalších evropských státech (HDP, Giniho koeficient, populace). Jako
@@ -110,7 +109,7 @@ Pro odpověď na tuto otázku byl vytvořen dotaz, ve kterém byl pro každou
 kategorii potravin spočítán průměrný meziroční procentuální růst. Z výsledné
 tabulky lze vidět, že kategorií potravin, která zdražovala nejpomaleji, byl
 krystalový cukr, a to o -1,92 %. Druhou kategorií potravin se záporným
-meziročním růstem byly jablka rajská, a to o -0,74 %. Cena těchto produktů
+meziročním růstem byly rajská jablka, a to o -0,74 %. Cena těchto produktů
 tedy meziročně klesala. Potravinou s nejvyšším růstem byly papriky, u kterých
 se cena meziročně zvyšovala o 7,29 %.
 
