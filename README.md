@@ -59,7 +59,7 @@ roky 2006 a 2018. Tabulka vznikla spojením tří hlavních částí:
   - část a – informace o průměrných mzdách v různých odvětvích ČR.
 Jako zdroj dat byla použita tabulka czechia_payroll a
 czechia_industry_branch,
-  - část b – informace o průměrných cenách potravin v ČR, byla
+  - část b – informace o průměrných cenách potravin v ČR, jako zdroj byla
 použita tabulka czechia_price a czechia_price_category,
   - část c – informace o hodnotě HDP v ČR, zdrojem dat byla tabulka
 economies.
