@@ -6,7 +6,7 @@ Projekt se zabývá cenami základních potravin, průměrnými mzdami v různý
 odvětvích a HDP v letech 2006–2018. Cílem projektu bylo vypracovat datové
 podklady, které pomohou odpovědět na níže uvedené výzkumné otázky.
 Pracovalo se s volně přístupnými datovými sadami, které pocházejí z portálu
-otevřených dat ČR. SQL skripty byly vytvořeny v relační databázi PostgreSQL
+otevřených dat ČR. SQL dotazy byly vytvořeny v relační databázi PostgreSQL
 pomocí programu DBeaver v rámci absolvování Datové akademie Engeto.
 
 **Výzkumné otázky**
