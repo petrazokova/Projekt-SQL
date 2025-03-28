@@ -56,14 +56,14 @@ Ze vstupních dat byly vytvořeny dvě tabulky:
 - **t_petra_zokova_projekt_z_SQL_primary_final**, která obsahuje data cen
 potravin, mezd a HDP v České republice sjednocené za totožné období mezi
 roky 2006 a 2018. Tabulka vznikla spojením tří hlavních částí:
-o 1. část – informace o průměrných mzdách v různých odvětvích ČR.
+  - část a – informace o průměrných mzdách v různých odvětvích ČR.
 Jako zdroj dat byla použita tabulka czechia_payroll a
 czechia_industry_branch,
-o 2. část – informace o průměrných cenách potravin v ČR, byla
+  - část b – informace o průměrných cenách potravin v ČR, byla
 použita tabulka czechia_price a czechia_price_category,
-o 3. část – informace o hodnotě HDP v ČR, zdrojem dat byla tabulka
+  - část c – informace o hodnotě HDP v ČR, zdrojem dat byla tabulka
 economies.
-o Následně byly tyto tři části spojeny do jedné primární tabulky.
+  - Následně byly tyto tři části spojeny do jedné primární tabulky.
 
 - **t_petra_zokova_projekt_z_SQL_secondary_final** pro dodatečná data o
 dalších evropských státech (HDP, Giniho koeficient, populace). Jako
